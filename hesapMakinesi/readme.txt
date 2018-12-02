@@ -1,0 +1,1 @@
+Üzerindeki tuþlar ve kalvye kullanýlarak kontrol edilebilen basit hesap makinesi
