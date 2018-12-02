@@ -1,11 +1,4 @@
 $(document).ready(function () {
-    /*$(".galeri img").click(function (){
-        var height = $("body").height();
-        var src = $(this).attr("src");
-        $("body").append("<div id='lightbox'></div>");
-        $("#lightbox").css({height:height});
-        $("body").append("<img id='imgR' src='"+src+"'/>");
-    })*/
     var nowIndex;
     $(window).resize(function(){
         resize();
