@@ -1,0 +1,1 @@
+Rastgele 4 iþlem sorusu ve birbirine yakýn yanlýþ cevaplar üreten program 
