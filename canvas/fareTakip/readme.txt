@@ -1,0 +1,1 @@
+Fareyi takip eden nesne, HTML5 Canvas uygulamasý

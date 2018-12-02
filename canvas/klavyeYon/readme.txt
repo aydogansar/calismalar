@@ -1,0 +1,1 @@
+Klavye yön tuþlarý ile hareket ettirilen nesne, HTML5 Canvas uygulamasý
