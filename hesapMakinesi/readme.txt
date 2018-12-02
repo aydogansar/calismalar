@@ -1,1 +1,1 @@
-Üzerindeki tuşlar ve kalvye kullanılarak kontrol edilebilen basit hesap makinesi
+Ãœzerindeki tuÅŸlar ve klavye kullanÄ±larak kontrol edilebilen basit hesap makinesi
